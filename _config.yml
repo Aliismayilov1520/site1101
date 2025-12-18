@@ -7,7 +7,8 @@ author:
   name: "Student Name"
   email: "student@example.com"
 
-theme: null
+theme: minima
+
 
 markdown: kramdown
 permalink: /:title/
