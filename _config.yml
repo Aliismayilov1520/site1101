@@ -1,15 +1,13 @@
 title: "SITE 1101 Portfolio"
-description: "Personal portfolio for SITE 1101: Principles of Information Systems – Individual Project"
-baseurl: ""
-url: ""
+description: "Personal portfolio for SITE 1101"
+baseurl: "/site1101"
+url: "https://aliismayilov1520.github.io"
 
 author:
-  name: "Student Name"
-  email: "student@example.com"
+  name: "Ali Ismayilov"
+  email: "ali@example.com"
 
 theme: minima
-
-
 markdown: kramdown
 permalink: /:title/
 
@@ -28,5 +26,3 @@ defaults:
       type: "posts"
     values:
       layout: post
-
-
