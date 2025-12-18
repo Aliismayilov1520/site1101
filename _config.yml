@@ -1,0 +1,31 @@
+title: "SITE 1101 Portfolio"
+description: "Personal portfolio for SITE 1101: Principles of Information Systems – Individual Project"
+baseurl: ""
+url: ""
+
+author:
+  name: "Student Name"
+  email: "student@example.com"
+
+theme: null
+
+markdown: kramdown
+permalink: /:title/
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+
+

@@ -1,0 +1,18 @@
+<div class="navbar container">
+  <a class="site-title" href="{{ '/' | relative_url }}">
+    SITE 1101 Portfolio
+  </a>
+  <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+    <span class="nav-toggle-bar"></span>
+    <span class="nav-toggle-bar"></span>
+    <span class="nav-toggle-bar"></span>
+  </button>
+  <nav class="nav-links" aria-label="Main navigation">
+    <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+    <a href="{{ '/about/' | relative_url }}" class="{% if page.url == '/about/' %}active{% endif %}">About</a>
+    <a href="{{ '/projects/' | relative_url }}" class="{% if page.url == '/projects/' %}active{% endif %}">Projects</a>
+    <a href="{{ '/resume/' | relative_url }}" class="{% if page.url == '/resume/' %}active{% endif %}">Resume</a>
+  </nav>
+</div>
+
+
