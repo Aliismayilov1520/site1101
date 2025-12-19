@@ -14,7 +14,7 @@ subtitle: "Information Systems student portfolio for SITE 1101"
       />
     </div>
     <div class="hero-text">
-      <h2>Hello, I’m an Information Systems student.</h2>
+      <h2>Hello, I’m Ali Ismayilov.</h2>
       <p>
         This portfolio was created for
         <strong>SITE 1101: Principles of Information Systems</strong> to present
