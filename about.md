@@ -7,17 +7,16 @@ subtitle: "Background, education, skills, and activities"
 
 ## Background
 
-I am a student of information systems who enjoys working at the intersection of
-business and technology. My focus is on understanding how data, processes, and
-people come together to create effective information systems.
+I am a first-year student of Electrical and Electronics Engineering with a strong interest in information systems and technology. I enjoy learning how technical systems, data, and technology are designed and used to solve real-world problems. My focus is on building a solid foundation in engineering concepts while understanding how information systems support organizations and decision-making processes.
 
-In this course, I am exploring core concepts such as systems thinking, business
-process modeling, data management, and the role of information systems in
-organizations.
+
+In this course, I am exploring core concepts such as systems thinking, business process modeling, data management, and the role of information systems in organizations.
+
 
 ## Education
 
-- **Program**: Bachelor-level program related to Computing / Information Systems  
+- **Program**:Bachelor of Electrical and Electronics Engineering (First-Year Student)
+  
 - **Course**: SITE 1101 – Principles of Information Systems  
 - **Interests**:
   - How organizations transform data into useful information
@@ -28,10 +27,9 @@ organizations.
 
 - **Information Systems Concepts**
   - Understanding of hardware, software, data, procedures, and people components
-  - Familiarity with different types of information systems (TPS, MIS, DSS, etc.)
-- **Business & Process Thinking**
-  - Basic process mapping and documentation
-  - Identifying information needs for different stakeholders
+  Familiarity with different types of information systems (TPS, MIS, DSS, etc.)
+  - Documenting system behavior using simple diagrams and structured descriptions
+
 - **Technical Foundations**
   - HTML, CSS, and introductory web development concepts
   - Experience using a static site generator (Jekyll) for this project
