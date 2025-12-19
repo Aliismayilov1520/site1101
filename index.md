@@ -9,9 +9,10 @@ subtitle: "Information Systems student portfolio for SITE 1101"
   <div class="hero-grid">
     <div class="hero-image">
       <img
-        src="https://via.placeholder.com/360x360.png?text=Profile+Photo"
-        alt="Placeholder profile photo of the student"
+        src="{{ '/assets/images/ali_photo.jpg' | relative_url }}"
+        alt="Ali Ismayilov profile photo"
       />
+
     </div>
     <div class="hero-text">
       <h2>Hello, I’m Ali Ismayilov.</h2>
