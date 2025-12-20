@@ -7,9 +7,9 @@ subtitle: "Sample resume for an Information Systems student"
 
 ## Contact
 
-- **Name**: Student Name (placeholder)
-- **Email**: student@example.com (placeholder)
-- **Location**: City, Country (placeholder)
+- **Name**: Ali Ismayilov
+- **Email**: aismayilov24037@ada.edu.az
+- **Location**: Baku,Azerbaijan
 
 ## Objective
 
