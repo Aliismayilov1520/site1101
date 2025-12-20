@@ -23,6 +23,7 @@ subtitle: "Course-related and exploratory work"
         <li>Clear description of organizational context and information needs</li>
         <li>Identification of key data entities and simple data flows</li>
         <li>Focus on how managers could use the resulting information</li>
+        <li><a>https://youtu.be/dEDFkh0GL38</a></li>
       </ul>
     </div>
   </article>
