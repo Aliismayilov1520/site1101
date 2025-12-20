@@ -8,10 +8,7 @@ subtitle: "Course-related and exploratory work"
 <section class="projects-grid">
   <article class="project-card">
     <div class="project-image">
-      <img
-        src="https://via.placeholder.com/640x360.png?text=Project+1+Screenshot"
-        alt="Placeholder screenshot for Project 1 information system"
-      />
+      
     </div>
     <div class="project-content">
       <h2>Project 1 How does hardware work</h2>
@@ -30,10 +27,7 @@ subtitle: "Course-related and exploratory work"
 
   <article class="project-card">
     <div class="project-image">
-      <img
-        src="https://via.placeholder.com/640x360.png?text=Web+Portfolio"
-        alt="Placeholder screenshot for portfolio website project"
-      />
+      
     </div>
     <div class="project-content">
       <h2>Portfolio Website for SITE 1101</h2>
@@ -49,12 +43,7 @@ subtitle: "Course-related and exploratory work"
   </article>
 
   <article class="project-card">
-    <div class="project-image">
-      <img
-        src="https://via.placeholder.com/640x360.png?text=Hour+of+Code"
-        alt="Placeholder screenshot for optional Hour of Code activity"
-      />
-    </div>
+    
     <div class="project-content">
       <h2>Optional: Hour of Code Activity</h2>
       <p>
@@ -64,6 +53,7 @@ subtitle: "Course-related and exploratory work"
         <li>Introduces programming concepts in a beginner-friendly format</li>
         <li>Strengthens logical thinking and step-by-step problem solving</li>
         <li>Connects practical coding experience with information systems theory</li>
+        <li><a href="https://youtu.be/Ydt0KLFted4">Youtube link</a></li>
       </ul>
     </div>
   </article>
